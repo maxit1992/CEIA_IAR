@@ -129,5 +129,8 @@ dmypy.json
 .pyre/
 
 # Specific 
-
-
+TP Final/otros/*
+TP Final/parte2/route1/horus_map/*.png
+TP Final/parte2/route1/particles_saves/*
+TP Final/parte2/route1_10s/horus_map/*.png
+TP Final/parte2/route1_10s/particles_saves/*
